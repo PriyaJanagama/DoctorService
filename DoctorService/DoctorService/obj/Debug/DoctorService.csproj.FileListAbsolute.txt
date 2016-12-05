@@ -1,0 +1,10 @@
+c:\users\vbodanki118875\documents\visual studio 2015\Projects\DoctorService\DoctorService\bin\Debug\DoctorService.dll
+c:\users\vbodanki118875\documents\visual studio 2015\Projects\DoctorService\DoctorService\bin\Debug\DoctorService.pdb
+c:\users\vbodanki118875\documents\visual studio 2015\Projects\DoctorService\DoctorService\obj\Debug\DoctorService.csprojResolveAssemblyReference.cache
+c:\users\vbodanki118875\documents\visual studio 2015\Projects\DoctorService\DoctorService\obj\Debug\DoctorService.dll
+c:\users\vbodanki118875\documents\visual studio 2015\Projects\DoctorService\DoctorService\obj\Debug\DoctorService.pdb
+C:\Users\Lasya\Documents\DoctorService\DoctorService\obj\Debug\DoctorService.csprojResolveAssemblyReference.cache
+C:\Users\Lasya\Documents\DoctorService\DoctorService\obj\Debug\DoctorService.dll
+C:\Users\Lasya\Documents\DoctorService\DoctorService\obj\Debug\DoctorService.pdb
+C:\Users\Lasya\Documents\DoctorService\DoctorService\bin\Debug\DoctorService.dll
+C:\Users\Lasya\Documents\DoctorService\DoctorService\bin\Debug\DoctorService.pdb
