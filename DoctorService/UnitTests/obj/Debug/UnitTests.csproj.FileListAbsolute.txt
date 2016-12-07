@@ -1,0 +1,7 @@
+C:\Users\Lasya\Documents\DoctorService\UnitTests\bin\Debug\UnitTests.pdb
+C:\Users\Lasya\Documents\DoctorService\UnitTests\bin\Debug\DoctorService.dll
+C:\Users\Lasya\Documents\DoctorService\UnitTests\bin\Debug\DoctorService.pdb
+C:\Users\Lasya\Documents\DoctorService\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Lasya\Documents\DoctorService\UnitTests\obj\Debug\UnitTests.pdb
+C:\Users\Lasya\Documents\DoctorService\UnitTests\bin\Debug\UnitTests.exe
+C:\Users\Lasya\Documents\DoctorService\UnitTests\obj\Debug\UnitTests.exe
